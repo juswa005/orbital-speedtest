@@ -2,6 +2,12 @@
 
 `orbital-speedtest` is a NASA-themed internet speed test for Linux terminals. It wraps `speedtest-cli`, presents the result in a mission-control style TUI, and classifies your connection after each run so you can tell whether it is critical, slow, operational, fast, or mission-grade.
 
+## Screenshot
+
+Add your screenshot to `assets/screenshot-main.png`, then uncomment the line below.
+
+<!-- ![Orbital Speedtest screenshot](assets/screenshot-main.png) -->
+
 ## Features
 
 - Run an internet speed test from a full-screen TUI
